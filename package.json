@@ -46,7 +46,7 @@
     "akismet-api": "5.1.0",
     "algoliasearch": "4.5.1",
     "apollo-fetch": "0.7.0",
-    "apollo-server": "2.18.2",
+    "apollo-server": "2.25.4",
     "apollo-server-express": "2.18.2",
     "auto-load": "3.0.4",
     "aws-sdk": "2.778.0",
