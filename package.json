@@ -75,7 +75,7 @@
     "elasticsearch7": "npm:@elastic/elasticsearch@7",
     "emoji-regex": "9.2.2",
     "eventemitter2": "6.4.4",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-brute": "1.0.1",
     "express-session": "1.17.1",
     "file-type": "15.0.1",
